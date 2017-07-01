@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="mapsystem4">
+    <output-path>$PROJECT_DIR$/out/artifacts/mapsystem4</output-path>
+    <root id="archive" name="mapsystem4.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/dao" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/entity" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/util" />
+    </root>
+  </artifact>
+</component>

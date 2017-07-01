@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.0.5-bin">
+    <archive path="F:/IDEA 2017/web/WEB-INF/lib/mysql-connector-java-5.0.5-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+

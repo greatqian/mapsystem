@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/IDEA 2017"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.0.M20" scope="PROVIDED"/>
+	<lib name="mysql-connector-java-5.0.5-bin.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.0.5-bin.jar!/"/>
+	</lib>
+	<levels>
+		<level name="Tomcat 9.0.0.M20" value="application_server_libraries"/>
+		<level name="mysql-connector-java-5.0.5-bin" value="project"/>
+	</levels>
+</component>

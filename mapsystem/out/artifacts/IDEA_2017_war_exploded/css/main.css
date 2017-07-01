@@ -1,0 +1,22 @@
+#search a{
+    font-size:18px;
+    color: blue;
+}
+#search li{
+    line-height:40px;
+}
+.change a{
+    display: inline-block;
+    float: right;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.note{
+    display:inline-block;
+    float:right;
+    margin-right:50px;
+    color:red;
+    font-size:14px;
+}
